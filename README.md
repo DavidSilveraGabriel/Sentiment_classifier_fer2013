@@ -30,4 +30,4 @@ valid accuracy = 65.23%
 
 As you can see, the results tell us that the model is a little over-adjusted since by giving us a "high" precision in
 training and a lower one in the validation, this does not manage to generalize in new data, but the results when using the model
-to predict in images of memes are fun.
+to predict in images of memes are fun xD.
